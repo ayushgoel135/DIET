@@ -14,7 +14,7 @@ load_dotenv(find_dotenv())
 st.set_page_config(page_title="BuildHub Nutrition Monitor", page_icon="🔮")
 
 # Configure Google Generative AI library with an API key from environment variables
-genai.configure(api_key="AIzaSyAMlNNapYnviYLGMozrxMpsKW2xmPc0e4g")
+genai.configure(api_key="AIzaSyCFrhbFhT3nAyLVV8eoarE8gQ_IggFE8Bw")
 
 # Apply custom CSS to enhance the Streamlit app's appearance
 st.markdown("""
